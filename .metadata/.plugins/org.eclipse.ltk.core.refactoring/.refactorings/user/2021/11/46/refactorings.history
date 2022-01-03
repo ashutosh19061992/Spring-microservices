@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private List getUsersContacts(int id)&apos; from &apos;com.user.contact.controller.UserController.getPersonById(...)&apos; to &apos;com.user.contact.controller.UserController&apos;&#x0D;&#x0A;- Original project: &apos;user&apos;&#x0D;&#x0A;- Method name: &apos;getUsersContacts&apos;&#x0D;&#x0A;- Destination type: &apos;com.user.contact.controller.UserController&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;getUsersContacts&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.user.contact.controller{UserController.java" name="getUsersContacts" replace="false" selection="1157 89" stamp="1636461641446" version="1.0" visibility="2"/>
+</session>

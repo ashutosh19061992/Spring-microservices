@@ -1,0 +1,6 @@
+1635834980410	Rename type 'Person'
+1635835085035	Rename type 'PersonController'
+1635835119606	Rename method 'getPersonById'
+1635835133479	Rename field 'personList'
+1635837527045	Rename type 'Address'
+1635837560094	Rename field 'addresses'
